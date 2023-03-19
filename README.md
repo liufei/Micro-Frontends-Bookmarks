@@ -14,10 +14,11 @@ Experience and Insights on Micro Frontends.
 
 ### Why do we need Micro Frontends?
 
-
 - [Microfrontends: the good, the bad, and the ugly](https://zendev.com/2019/06/17/microfrontends-good-bad-ugly.html)
 
 - [Gasp! You Might Not Need Microservices](https://www.simplethread.com/gasp-you-might-not-need-microservices/)
+
+- [Sites vs. Apps defined: the Documents‐to‐Applications Continuum](https://ar.al/notes/the-documents-to-applications-continuum/)
 
 - [**zh-Hans**] [You may not necessarily need micro frontends](https://mp.weixin.qq.com/s/khrziHjDfgGS4GgHa6qQJg)
 
@@ -26,6 +27,8 @@ Experience and Insights on Micro Frontends.
 - [How to Micro Frontend with React](https://www.robinwieruch.de/react-micro-frontend/)
 
 - [Exploring possibilities for microfrontends of the next generation](https://github.com/unstubbable/mfng)
+
+- [Micro­service Websites](https://gustafnk.github.io/microservice-websites/)
 
 - [**zh-Hans**] [Dada's Micro Frontend Architecture Practice](https://mp.weixin.qq.com/s/kPwwS2ru3V0ch2EdFMLPJQ)
 
@@ -84,6 +87,8 @@ Experience and Insights on Micro Frontends.
 **Application Router**
 
 - [single-spa](https://github.com/single-spa/single-spa)
+
+- [Cant share info from MF1 to MF2 and MF2 to MF1 at the same time](https://github.com/single-spa/single-spa/issues/574)
 
 **CSS Isolation**
 
