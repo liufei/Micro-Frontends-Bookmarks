@@ -35,6 +35,7 @@ Experience and Insights on Micro Frontends.
 
 - [**zh-Hans**] [Building a Single-Page Application-like Architecture Using Micro Frontends](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
 
+- [**zh-Hans**] [Dada's Micro Frontend Architecture Practice](https://mp.weixin.qq.com/s/kPwwS2ru3V0ch2EdFMLPJQ)
 
 ## Practice
 
