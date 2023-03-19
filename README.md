@@ -4,7 +4,7 @@ Experience and Insights on Micro Frontends.
 
 ## Theory
 
-**What is Micro Frontends?**
+### What is Micro Frontends?
 
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 
@@ -12,7 +12,7 @@ Experience and Insights on Micro Frontends.
 
 - [11 Popular Misconceptions About Micro Frontends](https://blog.bitsrc.io/11-popular-misconceptions-about-micro-frontends-d5daecc92efb)
 
-**Why do we need Micro Frontends?**
+### Why do we need Micro Frontends?
 
 
 - [Microfrontends: the good, the bad, and the ugly](https://zendev.com/2019/06/17/microfrontends-good-bad-ugly.html)
@@ -21,11 +21,13 @@ Experience and Insights on Micro Frontends.
 
 - [**zh-Hans**] [You may not necessarily need micro frontends](https://mp.weixin.qq.com/s/khrziHjDfgGS4GgHa6qQJg)
 
-**How to implement Micro Frontends?**
+### How to implement Micro Frontends?
 
 - [How to Micro Frontend with React](https://www.robinwieruch.de/react-micro-frontend/)
 
 - [Exploring possibilities for microfrontends of the next generation](https://github.com/unstubbable/mfng)
+
+- [**zh-Hans**] [Dada's Micro Frontend Architecture Practice](https://mp.weixin.qq.com/s/kPwwS2ru3V0ch2EdFMLPJQ)
 
 - [**zh-Hans**] [How ByteDance implemented micro frontends](https://mp.weixin.qq.com/s/L9wbfNG5fTXF5bx7dcgj4Q)
 
@@ -34,8 +36,6 @@ Experience and Insights on Micro Frontends.
 - [**zh-Hans**] [Micro Frontends in Meituan Takeout's Practice](https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html)
 
 - [**zh-Hans**] [Building a Single-Page Application-like Architecture Using Micro Frontends](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
-
-- [**zh-Hans**] [Dada's Micro Frontend Architecture Practice](https://mp.weixin.qq.com/s/kPwwS2ru3V0ch2EdFMLPJQ)
 
 ## Practice
 
