@@ -20,6 +20,8 @@ Experience and Insights on Micro Frontends.
 
 - [Sites vs. Apps defined: the Documents‐to‐Applications Continuum](https://ar.al/notes/the-documents-to-applications-continuum/)
 
+- [Why Jeff Bezos’ Two-Pizza Team Rule Still Holds True in 2018](http://blog.idonethis.com/two-pizza-team/)
+
 - [**zh-Hans**] [You may not necessarily need micro frontends](https://mp.weixin.qq.com/s/khrziHjDfgGS4GgHa6qQJg)
 
 ### How to implement Micro Frontends?
@@ -80,6 +82,20 @@ Experience and Insights on Micro Frontends.
 
 - [SystemJS](https://github.com/systemjs/systemjs)
 
+- [Trying to move axios to System.js import map, and having tons of problems](https://github.com/react-microfrontends/api/issues/1)
+
+- [Function is unexpectedly transformed into Object](https://github.com/systemjs/systemjs/issues/2241)
+
+- [Module Exports vs. Export Default: Why Not Both?](https://bignerdranch.com/blog/default-exports-or-named-exports-why-not-both/)
+
+- [Node.js, TC-39, and Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
+
+- [What is AMD, CommonJS, and UMD?](https://www.davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/)
+
+- [Understanding (all) JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
+
+- [How to fix nasty circular dependency issues once and for all in JavaScript & TypeScript](https://medium.com/visual-development/how-to-fix-nasty-circular-dependency-issues-once-and-for-all-in-javascript-typescript-a04c987cf0de)
+
 - [Module Federation](https://webpack.js.org/concepts/module-federation/)
 
 - [import-html-entry](https://github.com/kuitos/import-html-entry)
@@ -99,6 +115,10 @@ Experience and Insights on Micro Frontends.
 - [react-shadow-root](https://github.com/apearce/react-shadow-root)
 
 - [@font-face doesn't work with Shadow DOM?](https://github.com/mdn/interactive-examples/issues/887)
+
+- [How to use Material Design Icons in a web component?](https://stackoverflow.com/questions/60504404/how-to-use-material-design-icons-in-a-web-component)
+
+- [Winning the war of CSS conflicts through the Shadow DOM](https://medium.com/rate-engineering/winning-the-war-of-css-conflicts-through-the-shadow-dom-de6c797b5cba)
 
 - [Fix the relative path problem of CSS url() in CSSStyleSheet()](https://github.com/systemjs/systemjs/pull/2326)
 
